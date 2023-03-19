@@ -15,7 +15,18 @@ Please follow [Torchreid_Dataset_Doc](https://kaiyangzhou.github.io/deep-person-
 ## Train & Test
 python train_test.py
 
-
 # Acknowledgement
 The code is based on the [LifelongReID](https://github.com/TPCD/LifelongReID) and [Graph Attention Network](https://github.com/Diego999/pyGAT)
+
+
+# Citation
+@article{liu2023knowledge,
+  title={Knowledge-Preserving continual person re-identification using Graph Attention Network},
+  author={Liu, Zhaoshuo and Feng, Chaolu and Chen, Shuaizheng and Hu, Jun},
+  journal={Neural Networks},
+  volume={161},
+  pages={105--115},
+  year={2023},
+  publisher={Elsevier}
+}
 
