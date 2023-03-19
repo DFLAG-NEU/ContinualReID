@@ -19,13 +19,13 @@ python train_test.py
 Our work is based on the code of Nan Pu et al. ([LifeLongReID](https://github.com/TPCD/LifelongReID)) and [Graph Attention Network](https://github.com/Diego999/pyGAT). Many thanks to Nan Pu et al. for building the foundations for continual person re-identification.
 
 # Citation
-@article{liu2023knowledge,
-  title={Knowledge-Preserving continual person re-identification using Graph Attention Network},
-  author={Liu, Zhaoshuo and Feng, Chaolu and Chen, Shuaizheng and Hu, Jun},
-  journal={Neural Networks},
-  volume={161},
-  pages={105--115},
-  year={2023},
-  publisher={Elsevier}
+@article{liu2023knowledge,  
+  title={Knowledge-Preserving continual person re-identification using Graph Attention Network},  
+  author={Liu, Zhaoshuo and Feng, Chaolu and Chen, Shuaizheng and Hu, Jun},  
+  journal={Neural Networks},  
+  volume={161},  
+  pages={105--115},  
+  year={2023},  
+  publisher={Elsevier}  
 }
 
