@@ -26,6 +26,5 @@ Our work is based on the code of Nan Pu et al. ([LifeLongReID](https://github.co
   volume={161},  
   pages={105--115},  
   year={2023},  
-  publisher={Elsevier}  
-}
+  publisher={Elsevier}}
 
